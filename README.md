@@ -22,10 +22,13 @@ Watch the project overview and analysis on [YouTube](https://www.youtube.com/wat
 If you have any feedback, suggestions, or questions about these projects, feel free to open an issue or reach out to me directly.
 
 ## Copyright Notice: 
-All projects and content in this repository are the intellectual property of Zohaib Hassan. You are free to view, fork, and modify the code for personal or educational purposes. However, commercial use or distribution of these projects, in part or in whole, without explicit permission from the author is strictly prohibited.
 
-If you intend to use any part of these projects for commercial purposes or wish to obtain permission for distribution, please contact zohaib.atd92@gmail.com for licensing inquiries.
+All projects and content in this repository are the intellectual property of Zohaib Hassan. You are welcome to view, fork, and modify the code for personal or educational purposes. However, any commercial use or distribution of these projects, either in part or in whole, without explicit permission from the author, is strictly prohibited.
+
+If you need access to the complete dashboard or have any questions, feel free to contact me via email or connect with me on LinkedIn.
+
+For commercial usage or distribution permissions, please contact me at zohaib.atd92@gmail.com for licensing inquiries.
 
 Thank you for respecting the author's rights and intellectual property.
 
-Author Zohaib Hassan
+Author: Zohaib Hassan
