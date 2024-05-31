@@ -18,6 +18,8 @@ Watch the project overview and analysis on [YouTube](https://www.youtube.com/wat
 
 [![Global Sales Performance Video](https://img.youtube.com/vi/zFcY9uSllIs/0.jpg)](https://www.youtube.com/watch?v=zFcY9uSllIs)
 
+![Alt Text](Thumbnail.png)
+
 ## FeedBack
 If you have any feedback, suggestions, or questions about these projects, feel free to open an issue or reach out to me directly.
 
